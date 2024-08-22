@@ -1,0 +1,13 @@
+.category {
+    background-color: #f3f3f3;
+    border: 2px solid #e84d42;
+    border-radius: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+    text-align: center;
+    box-shadow: 3px 3px 5px #888888;
+    
+    font-family: 'Pokemon Solid', sans-serif;
+    color: #e84d42;
+    text-transform: uppercase;
+}

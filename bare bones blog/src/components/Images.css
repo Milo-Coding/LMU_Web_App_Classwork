@@ -1,0 +1,12 @@
+.images {
+    grid-area: pokemon;
+    background-image: linear-gradient(red, red, black, white, white);
+    height: 100px;
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
+img {
+    transform: scale(1.1)
+}

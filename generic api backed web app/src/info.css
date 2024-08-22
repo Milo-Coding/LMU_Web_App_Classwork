@@ -1,0 +1,36 @@
+.item-list-style {
+  list-style: none;
+  text-align: center;
+  padding-right: 40px;
+  display: grid;
+}
+
+h1 {
+  color: #c62c17;
+  text-shadow: 2px 2px 3px rgb(99, 95, 95);
+  font: bold calc(20px + 7vmin) 'UnifrakturMaguntia', cursive;
+}
+
+h2 {
+  text-shadow: 1px 1px 2px grey;
+  font-size: calc(10px + 3vmin);
+}
+
+h3 {
+  margin: 5px;
+  font: bold italic 50px Avenir, Helvetica;
+  font-size: calc(10px + 1vmin);
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  text-align: center;
+  background-image: linear-gradient(80deg, #ff391f, #c62c17);
+  padding: 15px;
+}
+
+pdesc {
+  position: relative;
+  box-decoration-break: clone;
+  margin: calc(10px + 4%);
+  font: bold calc(10px + 1vmin) Avenir, Helvetica;
+  left: calc(-5px - 2%);
+}

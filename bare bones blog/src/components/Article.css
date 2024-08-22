@@ -1,0 +1,12 @@
+.prelude {
+    display: flex;
+    gap: 20px;
+}
+  
+.date {
+    font-style: italic;
+}
+  
+.body {
+    white-space: break-spaces;
+}

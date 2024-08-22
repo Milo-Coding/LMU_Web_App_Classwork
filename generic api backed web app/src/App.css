@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  background-color: lightgrey;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+pload {
+  margin: 5px;
+  font: bold italic 50px Avenir, Helvetica;
+  font-size: calc(10px + 3vmin);
+  color: black;
+  text-align: center;
+  padding: 15px;
+}
+
+pinfo {
+  margin: 5px;
+  font: bold 50px Avenir, Helvetica;
+  font-size: calc(10px + 3vmin);
+  color: black;
+  text-align: center;
+  padding: 15px;
+}
